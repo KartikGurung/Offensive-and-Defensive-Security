@@ -1,4 +1,4 @@
-# Simulated Ethical Hacking with Metasploit
+# Experiment 1: Network Discovery and Vulnerability Assessment
 
 ## Aim
 

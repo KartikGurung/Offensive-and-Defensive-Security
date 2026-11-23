@@ -107,7 +107,7 @@ Other filters used in this lab:
 
 ### 6. Save the capture
 
-Wireshark: **File → Save As → `lab_capture.pcap`**
+Wireshark: **File → Save As → `lab_capture.pcapng`**
 
 ## Observations
 
@@ -129,7 +129,7 @@ FTP, Telnet and HTTP send data, including usernames and passwords, without encry
 ```
 .
 ├── README.md
-├── lab_capture.pcap        # saved Wireshark capture (optional)
+├── lab_capture.pcapng      # saved Wireshark capture
 └── screenshots/
     ├── 01-ip-a.png
     ├── 02-ping-nmap.png
